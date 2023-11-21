@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    background-image: url(img/cielo-fondo.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h2{
+    text-align: center;
+}
+
+td{
+    margin: 0;
+    height: 82px;
+    width: 87px;
+    border-collapse: separate;
+    text-align: 5px 1em;
+    border-spacing: 10;
+    border: 2px solid #FFF5E0;
+    border-radius: 100px;
+    -moz-border-radius: 20px;
+    padding: 5px;
+}
+
+table{
+    border-spacing: 5px;
+    background-color: #FFF5E0;
+    border: 2px solid none;     
+    padding: 5px;
+    border-radius: 2em;
+}
+
+td.octu{
+    background-color: #D0BFFF;
+}
+
+td.dias{
+    background-color: #9BE8D8;
+}
+
+td.inavi{
+    background-color: #FFD1DA;
+}
+td.dici{
+    background-color: rgb(139, 226, 168);
+}
+
+td.fes1{
+    background-image: url(img/dia_de_muertos.png);
+}
+td.fes2{
+    background-image: url(img/dia_del_soltero.png);
+}
+td.fes3{
+    background-image: url(img/dia_del_libro.png);
+}
+td.fes4{
+    background-image: url(img/dia_mundial_de_la_diabetes.png);
+}
+td.fes5{
+    background-image: url(img/dia_de_gastronomia.png);
+}
+td.fes6{
+    background-image: url(img/dia_de_la_revolucion.png);
+}
+td.fes7{
+    background-image: url(img/dia_del_musico.png);
+}
+td.fes8{
+    background-image: url(img/dia_del_olivo.png);   
+}
